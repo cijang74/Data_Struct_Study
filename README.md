@@ -8,7 +8,7 @@ C언어로 공부하는 자료구조
 4. git push
 
 <b>강의</b>  
-https://youtu.be/-XbHQQ8pUQY](https://youtu.be/-XbHQQ8pUQY?si=0-ey7faNU20NnNwv
+https://youtu.be/-XbHQQ8pUQY
 
 <b>강의 자료</b>  
 http://www.kocw.net/home/cview.do?cid=a2cb71317f987a7c
